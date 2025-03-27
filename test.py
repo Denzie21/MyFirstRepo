@@ -1,1 +1,0 @@
-print("NO ONE CARES" SUCKS LIFE!!")
